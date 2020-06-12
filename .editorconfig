@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0029: Use coalesce expression
+dotnet_style_coalesce_expression = true:none
+
+# IDE0017: Simplify object initialization
+dotnet_style_object_initializer = true:none
